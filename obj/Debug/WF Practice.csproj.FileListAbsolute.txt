@@ -1,0 +1,9 @@
+C:\Users\scsc\Desktop\WF Practice\WF Practice\bin\Debug\WF Practice.exe.config
+C:\Users\scsc\Desktop\WF Practice\WF Practice\bin\Debug\WF Practice.exe
+C:\Users\scsc\Desktop\WF Practice\WF Practice\bin\Debug\WF Practice.pdb
+C:\Users\scsc\Desktop\WF Practice\WF Practice\obj\Debug\WF Practice.csprojResolveAssemblyReference.cache
+C:\Users\scsc\Desktop\WF Practice\WF Practice\obj\Debug\WF_Practice.Form1.resources
+C:\Users\scsc\Desktop\WF Practice\WF Practice\obj\Debug\WF_Practice.Properties.Resources.resources
+C:\Users\scsc\Desktop\WF Practice\WF Practice\obj\Debug\WF Practice.csproj.GenerateResource.Cache
+C:\Users\scsc\Desktop\WF Practice\WF Practice\obj\Debug\WF Practice.exe
+C:\Users\scsc\Desktop\WF Practice\WF Practice\obj\Debug\WF Practice.pdb
